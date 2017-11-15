@@ -2,9 +2,74 @@
 
 2. Lieu géométrique des points voyant les extrémités d'un segment avec un angle de 90 degrés (Utilisation du produit scalaire).
 
+---
+
+Plan de la séance du lundi 20 novembre 2017:
+
+Activité [géogebra sur les tangentes page 73](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Activit%C3%A9s/Tangente.png).
+
 -->
 
-Plan de la séance du jeudi 19 octobre 2017:
+Plan de la séance du jeudi 16 novembre 2017:
+
+[Fiche 5](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche5/Fiche5.pdf) sur les tangentes et le nombre dérivé:
+
+Ex 1: Calcul sur des fractions rationnelles.
+
+Ex 2: Evaluation d'une fonction pour x= a+h.
+
+Ex 3: Lecture graphique d'équations réduites de tangentes.
+
+Ex 4: Coefficients directeurs de droites.
+
+Ex 5: Réaliser le tracé possible d'une courbe connaissant des tangentes.
+
+---
+
+Mardi 14 novembre 2017:
+
+Contrôle de deux heures sur les vecteurs et les équations de droites.
+
+---
+
+Lundi 13 novembre 2017:
+
+Séance de révision sur le deuxième chapitre.
+
+1. Commentaire sur le devoir à la maison 6: Caractérisation du parallélogramme par l'égalité vectorielle. Ne pas confondre avec la caractérisation d'un trapèze.
+
+1. Vérification de la liste des compétences pour le contrôle.
+
+---
+
+Jeudi 9 novembre 2017:
+
+1. Méthodes alternatives pour déterminer une équation cartésienne de droite:
+
+- En revenant à la définition d'une équation (égalité équivalente à l'expression de l'appartenance d'un point générique de coordonnées (x;y)). Pour cela, traduire algébriquement la colinéarité de vecteurs.
+
+- En utilisant les théorèmes 19 et 21 sur les équations cartésiennes du polycopié.
+
+---
+
+Mardi 7 novembre 2017:
+
+Méthodes alternatives pour calculer les coordonnées d'un point dans un repère:
+
+- En revenant à la définition de coordonnées et en utilisant la relation de Chasles.
+- En résolvant les équations vérifiées par les coordonnées recherchées, les équations sur les vecteurs étant reflétées sur leurs coordonnées.
+
+---
+
+Lundi 6 novembre 2017:
+
+1. Utilisation de l'expression il suffit plutôt que il faut pour introduire l'utilisation d'une implication du cours pour montrer l'alignement de points ou le parallélisme de droite. Possibilité d'utiliser l'équivalence notamment dans le cas d'une question ouverte.
+
+1. Séance de révision sur les vecteurs et travail en autonomie sur les fiches 3 et 4 sur les vecteurs.
+
+---
+
+Jeudi 19 octobre 2017:
 
 Fiche d'[exercices 4](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%204/exercice-4.pdf): Vecteurs directeurs et équations cartésiennes de droites.
 
