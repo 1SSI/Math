@@ -4,13 +4,33 @@
 
 ---
 
-Plan de la séance du lundi 20 novembre 2017:
-
-Activité [géogebra sur les tangentes page 73](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Activit%C3%A9s/Tangente.png).
-
 -->
 
-Plan de la séance du jeudi 16 novembre 2017:
+Plan de la séance du jeudi 23 novembre 2017:
+
+1. Démonstration pour les dérivées des fonctions de référence.
+
+2. [Fiche 5](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche5/Fiche5.pdf)
+
+---
+
+Mardi 21 novembre 2017:
+
+1. Nombre dérivé comme limite du taux de variation: retour sur l'exemple de l'activité géogébra du lundi 20 novembre.
+
+2. Corrections d'exercices sur le lien entre nombre dérivé et tangente.
+
+3. [Fiche 5](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche5/Fiche5.pdf)
+
+---
+
+Lundi 20 novembre 2017:
+
+Activité [géogebra sur les tangentes page 73](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Activit%C3%A9s/Tangente.png): La tangente comme position limite de cordes.
+
+---
+
+Jeudi 16 novembre 2017:
 
 [Fiche 5](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche5/Fiche5.pdf) sur les tangentes et le nombre dérivé:
 
