@@ -6,7 +6,69 @@
 
 -->
 
-Plan de la séance du jeudi 23 novembre 2017:
+Jeudi 21 décembre 2017:
+
+Devinettes et jeux mathématiques.
+
+---
+
+Mardi 19 décembre 2017:
+
+Exercices 4-5-6 de la [fiche 6](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche6/Fiche6.pdf): Associer fonctions avec leur dérivée.
+
+Accompagnement personnalisé: Révision sur les [tableaux de variations](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Activit%C3%A9s/Rappels%20variations.odt).
+
+---
+
+Lundi 18 décembre 2017:
+
+Activité variations de fonction et direction de tangentes.
+
+
+
+---
+
+Jeudi 14 décembre 2017:
+
+Variations de fonctions et signe de la dérivée. Fiche d'exercices 6.
+
+---
+
+Mardi 12 décembre 2017:
+
+Contrôle avec des calculs de dérivées.
+
+---
+
+Lundi 11 décembre 2017:
+
+Révisions et questions sur le chapitre des dérivées
+
+---
+
+Jeudi 30 novembre 2017:
+
+1. [Fiche 5](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche5/Fiche5.pdf): Exercices 20-26.
+
+---
+
+Mardi 28 novembre 2017:
+
+1. [Fiche 5](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche5/Fiche5.pdf): Exercices 15-16-17.
+
+2. Correction exercices 1-2-4 page 97. Trouver l'équation d'une tangente.
+
+---
+
+Lundi 27 novembre 2017:
+
+1. Démonstration de la formule pour la dérivée du produit de deux fonctions dérivables.
+
+2. [Fiche 5](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche5/Fiche5.pdf): Correction Exercice 9.
+
+---
+
+Jeudi 23 novembre 2017:
 
 1. Démonstration pour les dérivées des fonctions de référence.
 
