@@ -6,6 +6,38 @@
 
 -->
 
+Mardi 16 janvier 2018:
+
+Contrôle avec des problèmes.
+
+[Activité 1 page 118](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Images/act1p118.png).
+
+---
+
+Lundi 15 janvier 2018:
+
+Exercices 13-14-15 [fiche 6](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche6/Fiche6.pdf): Problèmes utilsant un calcul de dérivée.
+
+---
+
+Jeudi 11 janvier 2018:
+
+Exercices 13-14-15 [fiche 6](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche6/Fiche6.pdf): Problème de minimisation de distance.
+
+---
+
+Mardi 9 janvier 2018:
+
+Exercices 10-11-12 [fiche 6](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche6/Fiche6.pdf): Problème de minimisation d'aire sous une courbe.
+
+---
+
+Lundi 8 janvier 2018:
+
+Exercices 8-9 [fiche 6](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Fiches%20d'exercices/Fiche6/Fiche6.pdf): Utiliser la dérivée pour construire un tableau de variations et trouver un extremum pour une fonction.
+
+---
+
 Jeudi 21 décembre 2017:
 
 Devinettes et jeux mathématiques.
