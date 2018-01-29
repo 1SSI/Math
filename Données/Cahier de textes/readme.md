@@ -3,14 +3,57 @@
 2. Lieu géométrique des points voyant les extrémités d'un segment avec un angle de 90 degrés (Utilisation du produit scalaire).
 
 ---
-
 -->
+
+Lundi 29 janvier 2018
+
+[Activité algorithmique](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf)
+
+---
+
+Jeudi 26 janvier 2018:
+
+[Fiche 8](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
+Exercices 12 à 18: Suites arithmétiques et géométriques.
+
+---
+
+Mardi 24 janvier 2018:
+
+[Fiche 8](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
+
+Calculs de termes et conjectures sur la nature d'une suite.
+Exercices 8,9,10,11.
+
+
+---
+
+Lundi 23 janvier 2018:
+
+Démontrer qu'une suite est arithmétique ou qu'elle ne l'est pas. Retour à la définition. Deux démonstrations différentes suivant le cas.
+
+---
+
+Jeudi 18 janvier 2018:
+
+[Fiche 8](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
+
+Termes et indices. Formalisme de définition des suites: Définitions explicites et par récurrences.
+Exercices 5, 6 et 7.
+
+---
 
 Mardi 16 janvier 2018:
 
 Contrôle avec des problèmes.
 
-[Activité 1 page 118](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Images/act1p118.png).
+[Fiche 8](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
+
+Introduction aux suites: Exercices 1-2-3-4
+
+Suites logiques, évolutions et coefficients multiplicatifs, population de bactéries.
+
+<!-- [Activité 1 page 118](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Images/act1p118.png). -->
 
 ---
 
