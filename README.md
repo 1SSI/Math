@@ -6,4 +6,4 @@
 
 # Chapitre en cours: [Dérivation](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf)
 
-[Sujets du contrôles précédents](https://github.com/1SSI/Math/tree/master/Donn%C3%A9es/Contr%C3%B4les)
+[Sujets des contrôles précédents](https://github.com/1SSI/Math/tree/master/Donn%C3%A9es/Contr%C3%B4les)
