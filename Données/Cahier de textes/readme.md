@@ -5,22 +5,64 @@
 ---
 -->
 
-Lundi 29 janvier 2018
 
-[Activité algorithmique](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf)
+Jeudi 15 février 2018:
+
+
+---
+
+Mardi 13 février 2018
+
+Etude de variation de suites:
+
+Ewercice 5 de la fiche, en utilisant une méthode de différences puis en étudiant les variations de la fonction sous-jacente (th 19).
+
+Révision lien algorithmes et définition de suites. Réalisation de tableau de valeurs prises par une variable dans un algorithme.
+
+---
+
+Jeudi 8 février 2018:
+
+[Fiche 10](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche10/Fiche10.pdf): Etude de variation de suites.
+
+---
+
+Mardi 6 février 2018:
+
+[Fiche 9](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche9/Fiche9.pdf) sur les suites: Suites récurrentes et suites définies par une formule explicite.
+
+---
+
+Lundi 5 février 2018:
+
+[Activité algorithmique](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): Utilisation de Python.
+
+---
+
+Mardi 30 janvier 2018:
+
+[Fiche 8](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche8/Fiche8.pdf) sur les suites: Sommes de termes de suites arithmétiques et géométriques.
+
+Démonstration pour la formule permettant de calculer une somme de termes consécutifs pour une suite arithmétique.
+
+---
+
+Lundi 29 janvier 2018:
+
+[Activité algorithmique](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): Algorithmique en langage naturel et première utilisation de Python.
 
 ---
 
 Jeudi 26 janvier 2018:
 
-[Fiche 8](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
+[Fiche 7](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
 Exercices 12 à 18: Suites arithmétiques et géométriques.
 
 ---
 
 Mardi 24 janvier 2018:
 
-[Fiche 8](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
+[Fiche 7](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche7/Fiche7.pdf) sur les suites:
 
 Calculs de termes et conjectures sur la nature d'une suite.
 Exercices 8,9,10,11.
