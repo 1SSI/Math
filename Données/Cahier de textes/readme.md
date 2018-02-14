@@ -3,13 +3,14 @@
 2. Lieu géométrique des points voyant les extrémités d'un segment avec un angle de 90 degrés (Utilisation du produit scalaire).
 
 ---
--->
+
 
 
 Jeudi 15 février 2018:
 
 
 ---
+-->
 
 Mardi 13 février 2018
 
