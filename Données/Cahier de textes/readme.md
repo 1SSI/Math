@@ -13,9 +13,9 @@ Jeudi 15 février 2018:
 
 Mardi 13 février 2018
 
-Etude de variation de suites:
+Étude de variation de suites:
 
-Ewercice 5 de la fiche, en utilisant une méthode de différences puis en étudiant les variations de la fonction sous-jacente (th 19).
+Exercice 5 de la fiche, en utilisant une méthode de différences puis en étudiant les variations de la fonction sous-jacente (th 19).
 
 Révision lien algorithmes et définition de suites. Réalisation de tableau de valeurs prises par une variable dans un algorithme.
 
@@ -23,7 +23,7 @@ Révision lien algorithmes et définition de suites. Réalisation de tableau de 
 
 Jeudi 8 février 2018:
 
-[Fiche 10](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche10/Fiche10.pdf): Etude de variation de suites.
+[Fiche 10](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Fiches%20d'exercices/Fiche10/Fiche10.pdf): Étude de variation de suites.
 
 ---
 
