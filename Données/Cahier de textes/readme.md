@@ -5,12 +5,57 @@
 ---
 
 
+Lundi 19 mars 2018:
 
-Jeudi 15 février 2018:
 
 
 ---
 -->
+
+Vendredi 16 mars 2018:
+
+1. Rappels enroulement de la droites des rééls et radians.
+
+1. Correction partielle des exercices 1 et 2 page 192.
+
+1. Suite de la fiche 11: Trigonométrie et angles orientés.
+
+1. [Fiche 12: Mesure principale d'angles orientés](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Fiches%20d'exercices/Fiche%2012/Fiche12.pdf).
+
+---
+
+Mardi 13 mars 2018:
+
+Algorithmique: Activité collective d'élaboration d'un algorithme conseils méthodologiques.
+
+[Fiche 11: Trigonométrie et angles orientés](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Fiches%20d'exercices/Fiche%2011/Fiche11.pdf).
+
+---
+
+Lundi 12 mars 2018:
+
+Travail de groupes réalisation d'algorithmes en langage naturel.
+
+---
+
+Mardi 20 février 2018:
+
+Contrôle de deux heures avec des suites.
+
+---
+
+Lundi 19 février 2018:
+
+Séance de révision sur les suites.
+
+---
+
+Jeudi 15 février 2018:
+
+Fiche 10 sur l'utilisation des suites numéruqyes.
+
+---
+
 
 Mardi 13 février 2018
 
