@@ -4,13 +4,52 @@
 
 ---
 
+-->
 
-Lundi 19 mars 2018:
+Mardi 3 avril 2018:
 
+Contrôle avec des produits scalaires.
+
+---
+
+Vendredi 30 mars 2018:
+
+Révisions sur le produit scalaire.
+
+---
+
+Mardi 27 mars 2018:
+
+Révisions sur le produit scalaire.
+Vecteur normal et équation de droites.
 
 
 ---
--->
+
+Lundi 26 mars 2018:
+
+[Fiche 16: Lieux géométriques et formules trigonométriques](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Fiches%20d'exercices/Fiche%2016/Fiche16.pdf)
+
+---
+
+Vendredi 23 mars 2018:
+
+[Fiche 15: Utilisation du produit scalaire](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Fiches%20d'exercices/Fiche%2015/Fiche15.pdf)
+
+---
+
+Mardi 20 mars 2018:
+
+[Fiche 14: Produit scalaire, Projection et coordonnées](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Fiches%20d'exercices/Fiche%2014/Fiche14.pdf)
+
+---
+
+Lundi 19 mars 2018:
+
+[Fiche 13:Angles associés et trigonométrie](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Fiches%20d'exercices/Fiche%2013/Fiche13.pdf)
+
+---
+
 
 Vendredi 16 mars 2018:
 
