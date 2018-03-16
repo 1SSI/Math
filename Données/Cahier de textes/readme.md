@@ -14,7 +14,7 @@ Lundi 19 mars 2018:
 
 Vendredi 16 mars 2018:
 
-1. Rappels enroulement de la droites des rééls et radians.
+1. Rappels enroulement de la droite des rééls et radians.
 
 1. Correction partielle des exercices 1 et 2 page 192.
 
