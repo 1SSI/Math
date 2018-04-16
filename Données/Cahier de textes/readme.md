@@ -5,6 +5,16 @@
 ---
 
 -->
+Lundi 16 avril 2018:
+
+Révisions pour le contrôle commun:
+
+Etudier les variations et le signe du trinôme du second degré x^2+x+1.
+
+[3 p296](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/7.%20Probabilit%C3%A9s/Images/1-3p296.png)
+
+[Avec des boules](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/7.%20Probabilit%C3%A9s/Images/4-6p297.png)
+---
 
 Mardi 3 avril 2018:
 
