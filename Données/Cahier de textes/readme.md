@@ -1,19 +1,26 @@
-<!--
 
-2. Lieu géométrique des points voyant les extrémités d'un segment avec un angle de 90 degrés (Utilisation du produit scalaire).
+Lundi 7 mai 2018:
+
+Révisions pour le devoir commun. Chercher [le devoir commun de 2017](https://github.com/1SSI/Math/blob/master/Donn%C3%A9es/DevoirsCommuns/2017.pdf).
 
 ---
 
--->
+Vendredi 20 avril 2018:
+
+Éléments de correction pour le contrôle sur le produit scalaire.
+
+---
+
 Lundi 16 avril 2018:
 
 Révisions pour le contrôle commun:
 
-Etudier les variations et le signe du trinôme du second degré x^2+x+1.
+Étudier les variations et le signe du trinôme du second degré x^2+x+1.
 
 [3 p296](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/7.%20Probabilit%C3%A9s/Images/1-3p296.png)
 
 [Avec des boules](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/7.%20Probabilit%C3%A9s/Images/4-6p297.png)
+
 ---
 
 Mardi 3 avril 2018:
