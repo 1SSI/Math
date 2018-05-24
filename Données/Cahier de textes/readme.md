@@ -1,4 +1,38 @@
 
+Vendredi 25 mai 2018:
+
+- [Exercice 24 page 282](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/6.%20Statistiques/Exercices/24p282.png)
+
+- [Exercice 37 page 284](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/6.%20Statistiques/Exercices/37p284.png)
+
+- [Exercices 5 et 6 page 327](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/6.%20Statistiques/Exercices/5-6p327.png)
+
+---
+
+Vendredi 18 mai 2018:
+
+[Fiche d'exercices 18](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/7.%20Probabilit%C3%A9s/Fiches%20d'exercices/Fiche%2018/Fiche18.pdf)
+
+---
+
+Mardi 15 mai 2018:
+
+Révisions pour le devoir commun. Chercher [le devoir commun de 2016](https://github.com/1SSI/Math/blob/master/Donn%C3%A9es/DevoirsCommuns/2015.pdf).
+
+---
+
+Lundi 14 mai 2018:
+
+Révisions pour le devoir commun. Chercher [le devoir commun de 2016](https://github.com/1SSI/Math/blob/master/Donn%C3%A9es/DevoirsCommuns/2016.pdf).
+
+---
+
+Vendredi 11 mai 2018:
+
+Révisions pour le devoir commun. Chercher [le devoir commun de 2016](https://github.com/1SSI/Math/blob/master/Donn%C3%A9es/DevoirsCommuns/2016.pdf).
+
+---
+
 Lundi 7 mai 2018:
 
 Révisions pour le devoir commun. Chercher [le devoir commun de 2017](https://github.com/1SSI/Math/blob/master/Donn%C3%A9es/DevoirsCommuns/2017.pdf).
